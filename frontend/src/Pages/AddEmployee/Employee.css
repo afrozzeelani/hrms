@@ -1,0 +1,26 @@
+.birthday {
+    box-shadow: 1px 1px 10px #80808073;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 12px;
+
+
+}
+
+.Upbirth {
+    background: #fff;
+    -webkit-box-shadow: 0 4px 10px 0 rgb(137 137 137 / 25%);
+    box-shadow: 0 4px 10px 0 rgb(137 137 137 / 25%);
+    border-radius: 10px;
+    border: 0;
+    height: 350px;
+}
+
+
+.mainbirth {
+    overflow: auto;
+    height: 300px;
+    scrollbar-width: thin;
+    scroll-behavior: smooth;
+
+}
